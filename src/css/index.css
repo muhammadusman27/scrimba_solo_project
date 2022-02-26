@@ -1,0 +1,118 @@
+body {
+    background-color: #1C1C1C;
+    font-family: Inter, sans-serif;
+}
+.card_background {
+    background-color: #23252C;
+}
+h1 {
+    color: white;
+}
+.card_inner_content {
+    /* background-color: #1A1B21; */
+    width: 317px;
+    border-radius: 10px 10px;
+}
+
+.dark_content_bg {
+background-color: #1A1B21;
+}
+.light_content_bg {
+    background-color: #F5F5F5;
+}
+
+
+.name_title {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+}
+.role {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 15px;
+}
+.website_name {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 150%;
+    /* identical to box height, or 15px */
+}
+/* dark name */
+.name_title_dark {
+    color: #FFFFFF;
+}
+.role_dark {
+    color: #F3BF99;
+}
+.website_name_dark {
+    color: #F5F5F5;
+}
+/* light name */
+.name_title_light {
+    color: #2B283A;
+}
+.role_light {
+    color: #F47D27;
+}
+.website_name_light {
+    color: #4A4E74;
+}
+/* dark btn */
+.white_btn_dark {
+    background: #FFFFFF;
+    /* gray/300 */
+    border: 1px solid #D1D5DB;
+    box-sizing: border-box;
+    /* shadow/sm */
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+.email_single_text_dark {
+    color: #374151;
+}
+.linkedin_btn {
+    background-color: #5093E2;
+}
+/* light */
+.about_interest {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+}
+.about_interest_description {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 150%;
+    /* or 15px */
+}
+.about_interest_dark {
+    color: #F5F5F5;
+}
+.about_interest_description_dark {
+    color: #DCDCDC;
+}
+.about_interest_light {
+    color: #2B283A;
+}
+.about_interest_description_light {
+    color: #4A4E74;
+}
+
+
+
+.footer_icons {
+    background-color: #161619;
+    border-radius: 0px 0px 7px 7px;
+}
